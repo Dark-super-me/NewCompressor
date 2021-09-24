@@ -32,6 +32,11 @@ BOT_START_TIME = time.time()
 LOG_FILE_ZZGEVC = Config.LOG_FILE_ZZGEVC
 BOT_USERNAME = Config.BOT_USERNAME
 UPDATES_CHANNEL = Config.UPDATES_CHANNEL
+crf = []
+watermark = []
+cmd1 = []
+data = []
+# man this fucks 
 
 if os.path.exists(LOG_FILE_ZZGEVC):
     with open(LOG_FILE_ZZGEVC, "r+") as f_d:
