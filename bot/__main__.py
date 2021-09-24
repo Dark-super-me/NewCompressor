@@ -1,7 +1,7 @@
 # Abhir hasaan is noob , pro kanger is noob :)
-"""
-Here is one tip for abhir hassan , learn ffmpeg first!
-"""
+
+# Here is one tip for abhir hassan , learn ffmpeg first!
+
 
 from datetime import datetime as dt
 import os
@@ -37,7 +37,7 @@ from bot.plugins.status_message_fn import (
 
 from bot.commands import Command
 from bot.plugins.call_back_button_handler import button
-sudo_users = "1391975600 888605132 1760568371"
+
 
 uptime = dt.now()
 
